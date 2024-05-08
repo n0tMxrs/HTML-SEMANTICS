@@ -1,0 +1,12 @@
+ #main-header{
+    text-align:center;
+    background-color: rgb(0, 0, 0);
+    color: beige;
+    padding:10px
+ }
+
+
+ #main-footer{
+    text-align: center;
+    font-size: 18px
+ }
